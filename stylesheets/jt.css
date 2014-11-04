@@ -24,7 +24,7 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background:#fff url("../images/purty_wood.png") repeat center top;
+		background:#fff url("../images/swirl_pattern.png") repeat center top;
 		font-family: Georgia, serif;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
@@ -66,28 +66,28 @@
 		padding-top: 5px;
 		color: #000;
 	}
-	
+
 	.profile {
 		float:right;
 		padding-left:5px;
 		padding-bottom:5px;
 	}
-	
+
 	ol, ul {
 		margin-left:2em;
 		margin-bottom:40px;
 	}
-	
+
 	li {
 		margin-bottom: 10px; font-size: 1.5em;
 		line-height: 1.25em;
 	}
-	
+
 	p {
 		font-size: 2.75em;
 		margin-bottom: 40px;
 	}
-	
+
 	h4 {
 		font-size: 1.75em;margin-bottom:25px;font-weight:bold;
 	}
